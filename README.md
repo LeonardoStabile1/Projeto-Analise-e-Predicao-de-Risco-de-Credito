@@ -1,5 +1,7 @@
 # Risco de crédito: Análise e Predição
-
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/Lib-Pandas-150458)
+![Status](https://img.shields.io/badge/Status-Concluído-success)
 ## Contexto
 
 Este projeto utiliza o dataset [`Credit Card Approval`](https://www.kaggle.com/datasets/youssefelbadry10/credit-card-approval/data) disponível no Kaggle para entender, filtrar e limpar os dados com um estudo exploratório (EDA). Por fim, cálculos de predição de alto e baixo risco são realizados por meio de diversos métodos de machine learning.
