@@ -31,7 +31,7 @@ Grupos de Variáveis:
 
 - Alvo: Is high risk
 
-Para uma análise detalhada da fase de exploração dos dados e dos principais insights, consulte o [arquivo Jupyter](Credit%20Card%20Risk.ipynb), e para os resultados desta análise, o arquivo [EDA](EDA.md).
+Para uma análise detalhada da fase de exploração dos dados e dos principais insights, consulte o [arquivo Jupyter](Credit%20Card%20Risk.ipynb).
 
 ### Conclusões do estudo exploratório
 - A variável alvo é altamente desbalanceada: apenas 1,7% do total dos dados está classificado como alto risco, enquanto 98,3% não representa situação de alto risco. Isso constitui um grande desafio para modelos de Machine Learning, pois há uma forte tendência de classificar todas as observações como “não alto risco” para maximizar a acurácia aparente;
