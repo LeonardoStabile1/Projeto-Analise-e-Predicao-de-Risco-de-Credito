@@ -1,8 +1,10 @@
 # Risco de Crédito: Análise e Previsões  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
-![Pandas](https://img.shields.io/badge/Lib-Pandas-150458)  
-![Scikit Learn](https://img.shields.io/badge/Lib-Scikit_Learn-150458)  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Pandas](https://img.shields.io/badge/Lib-Pandas-150458)
+![Scikit Learn](https://img.shields.io/badge/Lib-Scikit_Learn-150458)
 ![Status](https://img.shields.io/badge/Status-Finished-success)
+
+Este projeto é a versão em portugues de [Credit Risk: Analysis and Predictions](https://github.com/LeonardoStabile1/Project-Credit-Risk-Analysis-and-Prediction), disponível em inglês.
 
 # Seção 1: Qual é o problema e por que ele é importante?
 
