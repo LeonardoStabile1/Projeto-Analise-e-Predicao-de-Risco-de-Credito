@@ -4,7 +4,7 @@
 ![Scikit Learn](https://img.shields.io/badge/Lib-Scikit_Learn-150458)
 ![Status](https://img.shields.io/badge/Status-Finished-success)
 
-Este projeto é a versão em portugues de [Credit Risk: Analysis and Predictions](https://github.com/LeonardoStabile1/Project-Credit-Risk-Analysis-and-Prediction), disponível em inglês.
+Este projeto é a versão em português de [Credit Risk: Analysis and Predictions](https://github.com/LeonardoStabile1/Project-Credit-Risk-Analysis-and-Prediction), disponível em inglês.
 
 # Seção 1: Qual é o problema e por que ele é importante?
 
